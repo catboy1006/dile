@@ -1,0 +1,30 @@
+{
+  "name": "dile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-less": "^3.3.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sourcemaps": "^2.3.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-watch": "^4.3.11",
+    "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catboy1006/dile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catboy1006/dile/issues"
+  },
+  "homepage": "https://github.com/catboy1006/dile#readme"
+}
